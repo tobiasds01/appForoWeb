@@ -1,0 +1,49 @@
+* {
+    font-family: 'Montserrat', 'Raleway', sans-serif;
+    color: rgb(223, 223, 223);
+    margin: 0; padding: 0;
+}
+
+html {
+    background-color: rgb(27, 27, 27);
+}
+
+h1 {
+    margin: 50px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin: 50px;
+}
+
+form input {
+    margin-top: 10px;
+}
+
+#send {
+    color: rgb(27, 27, 27);
+    padding: 3px;
+}
+
+button {
+    display: block;
+    width: fit-content;
+    padding: 3px;
+    margin: 10px auto;
+    color: rgb(27, 27, 27);
+}
+
+p {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.columnas_2 {
+    justify-content: space-around;
+    align-items: center;
+}
